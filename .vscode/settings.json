@@ -1,4 +1,8 @@
 {
+	"workbench.activityBar.visible": true,
+	"workbench.view.extensions.enabled": false,
+	"extensions.autoUpdate": false,
+	"extensions.autoCheckUpdates": false
 	"editor.insertSpaces": false,
 	"files.trimTrailingWhitespace": true,
 	"files.exclude": {
